@@ -1,7 +1,7 @@
 👋 Hi, I’m @drgrossq
 
 
-[![Valerian Lyubvasky StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=575271&layout=compact)](https://stackoverflow.com/users/575271/valerian-lyubavsky)
+[![Valerian Lyubvasky StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=575271&layout=compact)](https://ru.stackoverflow.com/users/575271/valerian-lyubavsky)
 
 Решаю задачи с Codewars: https://www.codewars.com/users/dr.grossq
 
