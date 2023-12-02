@@ -1,10 +1,8 @@
 👋 Hi, I’m @drgrossq
 
 
-<!---
-drgrossq/drgrossq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Valerian Lyubvasky StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&layout=compact)](https://stackoverflow.com/users/575271/valerian-lyubavsky)
+
 Решаю задачи с Codewars: https://www.codewars.com/users/dr.grossq
 
 [![codewars](https://www.codewars.com/users/dr.grossq/badges/large)](https://www.codewars.com/users/dr.grossq)
